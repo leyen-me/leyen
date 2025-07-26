@@ -96,6 +96,13 @@ function App() {
         <div style={{ display: "flex", gap: "16px" }}>
           <a
             style={{ color: "white" }}
+            href="https://blog.leyen.me"
+            target="_blank"
+          >
+            Blog
+          </a>
+          <a
+            style={{ color: "white" }}
             href="https://github.com/leyen-me"
             target="_blank"
           >
